@@ -9,7 +9,6 @@
 
 <p>
   Red, Green, Blue are the primary colors associated with the electronic displays such as LCD monitors, digital cameras, scanners. 
-  
   Every other color which we see on these displays are the combination of RGB colors in different proportions.
   </p>
 ```
