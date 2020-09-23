@@ -1,8 +1,13 @@
+# RGB color Game
+
+## Table of contents
 * [Introduction](#Introduction)
 
-* [Chapter 1](#Chapter1)
+* [Technologies](#Technologies)
 
-* [Chapter 2](#Chapter2)
+* [Game](#Game)
+
+* [Source](#Source)
 
 ## Introduction
   - Red, Green, Blue are the primary colors associated with the electronic displays such as LCD monitors, digital cameras, scanners. 
@@ -25,14 +30,14 @@
     - **RGB(255, 0, 255)** results in magenta
     - So, If R and B components are near to 255, the resultant color will be near to magenta.
     - **RGB(0, 255, 255)** results in cyan
-    - So, If G and B components are near to 255, the resultant color will be near to cyan.
-   
+    - So, If G and B components are near to 255, the resultant color will be near to cyan.  
 
-  
-  
+## Technologies
+   - HTML5
+   - CSS3
+   - JavaScript
 
+## Game
 
-## Chapter1
-
-## Chapter2
+## Source
 
