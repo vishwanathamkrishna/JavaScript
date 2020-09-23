@@ -32,14 +32,15 @@
     - **RGB(0, 255, 255)** results in cyan
     - So, If G and B components are near to 255, the resultant color will be near to cyan.  
 
-## Technologies
+## Technologies:
+   The Front end technologies used in this project are:
    - HTML5
    - CSS3
    - JavaScript
 
 ## Game
 
-  - Link to access the Game - https://vishwanathamkrishna.github.io/color_game/
+  - Link to access the Game - https://vishwanathamkrishna.github.io/RGB-color-game/
 
 ## Source
 
