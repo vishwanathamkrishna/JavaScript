@@ -39,5 +39,9 @@
 
 ## Game
 
+  - Link to access the Game - https://vishwanathamkrishna.github.io/color_game/
+
 ## Source
+
+  - "The Web Developer Bootcamp" udemy course by Colt Steele.
 
