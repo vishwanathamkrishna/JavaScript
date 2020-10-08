@@ -1,5 +1,6 @@
 # RGB color Game
 
+
 ## Table of contents
 * [Introduction](#Introduction)
 
